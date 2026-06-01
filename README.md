@@ -44,10 +44,14 @@ Network Range: 172.20.10.0/28
 
    * Identified live hosts within the target network range.
      ```nmap -sn 172.20.10.0/28```
+     <img width="1584" height="436" alt="image" src="https://github.com/user-attachments/assets/e185ecdb-54ff-4fbd-969e-dd8879b77205" />
+
 
 2. **Port Scanning**
 
-   * Enumerated open TCP and UDP ports.
+   * Enumerated open TCP and UDP ports. ```namp -sS 172.20.10.2
+     <img width="1662" height="627" alt="image" src="https://github.com/user-attachments/assets/252354ec-26f4-442d-bb3f-11b43653832e" />
+
 
 3. **Service Enumeration**
 
